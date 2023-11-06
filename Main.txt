@@ -1,7 +1,3 @@
 Xóa nhầm 1 đống file rồi
 
 Hiện trong branch test là ok
-<<<<<<< HEAD
-aaaaaa
-=======
->>>>>>> parent of e063916 (clear)
